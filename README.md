@@ -13,7 +13,7 @@
 [<img align="left" alt="HTML5" width="40px" src="html5.png" />]
 [<img align="left" alt="CSS3" width="40px" src="css3.png" />]
 [<img align="left" alt="JavaScript" width="40px" src="JavaScript.png" />]
-[<img align="left" alt="React" width="40px" src="react.png" />]
+[<img align="left" alt="React" width="40px" src="React.png" />]
 [<img align="left" alt="Node" width="40px" src="node.png" />]
 
 <br/>
