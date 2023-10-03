@@ -10,9 +10,10 @@
 
 <br/>
 
-![HTML5](htmlCss.svg)
-![JavaScrip](js.svg)
-![React.js](react.svg)
+    ![HTML5](htmlCss.svg)
+    ![JavaScrip](js.svg)
+    ![React.js](react.svg)
+
 ![]()
 
 <br/>
@@ -22,5 +23,5 @@
 
 <br/>
 
-[<img align="left" alt="Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](www.linkedin.com/in/alin-lechintan-2582b181)
-[<img align="left" alt="Outlook" width="40px" src="image.png" />](mailto:alin.lechintan@outlook.com)
+    [<img align="left" alt="Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](www.linkedin.com/in/alin-lechintan-2582b181)
+    [<img align="left" alt="Outlook" width="40px" src="image.png" />](mailto:alin.lechintan@outlook.com)
