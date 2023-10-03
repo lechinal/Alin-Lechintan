@@ -28,5 +28,5 @@
 
 <br/>
 
-[<img align="left" alt="Linkedin" width="40px" src="linkedin.png" />](www.linkedin.com/in/alin-lechintan-2582b181)
+[<img align="left" alt="Linkedin" width="40px" src="linkedin.png" />](www.linkedin.com/in/alin-lechintan)
 [<img align="left" alt="Outlook" width="40px" src="image.png" />](mailto:alin.lechintan@outlook.com)
