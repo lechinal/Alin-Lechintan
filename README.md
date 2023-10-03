@@ -15,10 +15,10 @@
 
 <div style="display: flex; flex-direction:row; gap:30px">
 
-<img alt="HTML5" width="40px" src="html5.png" />
-<img alt="CSS3" width="40px" src="css3.png" />
-<img alt="JavaScript" width="40px" src="JavaScript.png"/>
-<img alt="React" width="40px" src="React.png" />
+<img alt="HTML5" width="40px" src="html5.png"  style="margin-right: 10px;"/>
+<img alt="CSS3" width="40px" src="css3.png" style="margin-right: 10px;"/>
+<img alt="JavaScript" width="40px" src="JavaScript.png" style="margin-right: 10px;"/>
+<img alt="React" width="40px" src="React.png" style="margin-right: 10px;"/>
 <img alt="Node" width="40px" src="node.png" />
 
 </div>
