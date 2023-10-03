@@ -13,12 +13,12 @@
 
 <br/>
 
-<div style="display: flex; flex-direction:row; gap:30px; background-color: #f2f2f2;">
+<div>
 
-<img alt="HTML5" width="40px" src="html5.png"  style="margin-left: 10px;"/>
-<img alt="CSS3" width="40px" src="css3.png" style="margin-left: 10px;"/>
-<img alt="JavaScript" width="40px" src="JavaScript.png" style="margin-left: 10px;"/>
-<img alt="React" width="40px" src="React.png" style="margin-left: 10px;"/>
+<img alt="HTML5" width="40px" src="html5.png"  />
+<img alt="CSS3" width="40px" src="css3.png" />
+<img alt="JavaScript" width="40px" src="JavaScript.png" />
+<img alt="React" width="40px" src="React.png" />
 <img alt="Node" width="40px" src="node.png" />
 
 </div>
