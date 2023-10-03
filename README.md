@@ -6,6 +6,9 @@
 
 ## I'm a entry level fullstack developer (HTML + CSS, JS, React.js, Node.js)
 
+<br/>
+<br/>
+
 ### Skills & Tools : <img align="left" alt="skills" width="40px" src="https://cdn-icons-png.flaticon.com/512/3696/3696638.png"/>
 
 <br/>
