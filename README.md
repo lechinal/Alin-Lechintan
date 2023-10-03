@@ -13,6 +13,7 @@
 ![HTML5](htmlCss.svg)
 ![JavaScrip](js.svg)
 ![React.js](react.svg)
+<img src="js.svg" alt="JavaScript" style="margin-left: 10px">
 ![]()
 
 <br/>
