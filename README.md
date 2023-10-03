@@ -1,6 +1,4 @@
-# Alin-Lechintan
-
-### Hi there! 👋
+# Hi there! 👋
 
 🚀 About me
 
