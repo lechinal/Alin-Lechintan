@@ -2,7 +2,7 @@
 
 ## About me 🚀
 
-## I'm a entry level fullstack developer (HTML + CSS, JS, React.js, Node.js)
+### I'm a entry level fullstack developer 🧑‍💻 (HTML + CSS, JS, React.js, Node.js)
 
 <br/>
 <br/>
