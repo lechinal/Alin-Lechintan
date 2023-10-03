@@ -13,7 +13,7 @@
 
 <br/>
 
-<div style="display: flex; flex-direction:row; gap:30px">
+<div style="display: flex; flex-direction:row; gap:30px; background-color: #f2f2f2;">
 
 <img alt="HTML5" width="40px" src="html5.png"  style="margin-left: 10px;"/>
 <img alt="CSS3" width="40px" src="css3.png" style="margin-left: 10px;"/>
