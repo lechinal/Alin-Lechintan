@@ -16,9 +16,13 @@
 <div>
 
 <img alt="HTML5" width="40px" src="html5.png"  />
+
 <img alt="CSS3" width="40px" src="css3.png" />
+
 <img alt="JavaScript" width="40px" src="JavaScript.png" />
+
 <img alt="React" width="40px" src="React.png" />
+
 <img alt="Node" width="40px" src="node.png" />
 
 </div>
