@@ -9,9 +9,7 @@
 ### Skills & Tools : <img align="left" alt="skills" width="40px" src="https://cdn-icons-png.flaticon.com/512/3696/3696638.png"/>
 
 <br/>
-
-<img src="htmlCss.svg" alt="HTML5" style="margin-left: 10px">
-
+![HTML5&CSS3](htmlCss.svg)
 ![JavaScrip](js.svg)
 ![React.js](react.svg)
 
