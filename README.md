@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="jhtmlCss.svg" alt="HTML5" style="margin-left: 10px">
+<img src="htmlCss.svg" alt="HTML5" style="margin-left: 10px">
 
 ![JavaScrip](js.svg)
 ![React.js](react.svg)
