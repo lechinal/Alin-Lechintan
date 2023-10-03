@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-##🚀 About me
+## About me 🚀
 
 ## I'm a entry level fullstack developer (HTML + CSS, JS, React.js, Node.js)
 
