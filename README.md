@@ -16,13 +16,13 @@
 <div>
 
 <img alt="HTML5" width="40px" src="html5.png"  />
-
+<br/>
 <img alt="CSS3" width="40px" src="css3.png" />
-
+<br/>
 <img alt="JavaScript" width="40px" src="JavaScript.png" />
-
+<br/>
 <img alt="React" width="40px" src="React.png" />
-
+<br/>
 <img alt="Node" width="40px" src="node.png" />
 
 </div>
