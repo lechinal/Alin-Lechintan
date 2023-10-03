@@ -13,11 +13,11 @@
 
 <br/>
 
-["<img alt="HTML5" width="40px" src="html5.png" style="display: inline; margin-right: 10px;"/>
+<img alt="HTML5" width="40px" src="html5.png" style="display: inline; margin-right: 10px;"/>
 <img alt="CSS3" width="40px" src="css3.png" style="display: inline; margin-right: 10px;"/>
 <img alt="JavaScript" width="40px" src="JavaScript.png" style="display: inline; margin-right: 10px;"/>
 <img alt="React" width="40px" src="React.png" style="display: inline; margin-right: 10px;"/>
-<img alt="Node" width="40px" src="node.png"style="display: inline;/>"]
+<img alt="Node" width="40px" src="node.png"style="display: inline;"/>
 
 <br/>
 <br/>
