@@ -30,5 +30,5 @@
 
 <br/>
 
-[<img align="left" alt="Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](www.linkedin.com/in/alin-lechintan-2582b181)
+[<img align="left" alt="Linkedin" width="40px" src="linkedin.png" />](www.linkedin.com/in/alin-lechintan-2582b181)
 [<img align="left" alt="Outlook" width="40px" src="image.png" />](mailto:alin.lechintan@outlook.com)
