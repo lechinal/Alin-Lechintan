@@ -9,6 +9,9 @@
 ### Skills & Tools : <img align="left" alt="skills" width="40px" src="https://cdn-icons-png.flaticon.com/512/3696/3696638.png"/>
 
 ![HTML5](htmlCss.svg)
+![JavaScrip](js.svg)
+![React.js](react.svg)
+![]()
 
     <img align="left" alt="HTML5" width="40px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/>
     <img align="left" alt="CSS3" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
@@ -21,4 +24,6 @@
 ### How to find me <img align="left" alt="find" width="40px" src="https://cdn-icons-png.flaticon.com/512/2500/2500099.png"/>:
 
 [<img align="left" alt="Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](www.linkedin.com/in/alin-lechintan-2582b181)
-[<img align="left" alt="Outlook" width="40px" src="https://www.flaticon.com/free-icons/outlook" />]
+<a href="mailto:alin.lechinta@outlook.com" target="_blank">
+<img align="left" alt="Outlook" width="40px" src="https://www.flaticon.com/free-icons/outlook" />
+</a>
