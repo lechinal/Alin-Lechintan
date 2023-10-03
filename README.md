@@ -10,10 +10,11 @@
 
 <br/>
 
-![HTML5](htmlCss.svg)
+<img src="jhtmlCss.svg" alt="HTML5" style="margin-left: 10px">
+
 ![JavaScrip](js.svg)
 ![React.js](react.svg)
-<img src="js.svg" alt="JavaScript" style="margin-left: 10px">
+
 ![]()
 
 <br/>
