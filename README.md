@@ -25,6 +25,4 @@
 
 [<img align="left" alt="Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](www.linkedin.com/in/alin-lechintan-2582b181)
 
-<a href="mailto:alin.lechinta@outlook.com" target="\_blank" style="width: 40px;>
-![Outlook](image.png)
-</a>
+[<img align="left" alt="Outlook" width="40px" src="image.png" />](www.linkedin.com/in/alin-lechintan-2582b181)
