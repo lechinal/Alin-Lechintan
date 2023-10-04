@@ -25,6 +25,7 @@
 <img alt="Trello" title="Trello" width="40px" src="trello.svg" />
 <img alt="SASS" title="SASS" width="40px" src="sass.svg" />
 <img alt="BEM" title="BEM" width="40px" src="bem.svg" />
+<img alt="MUI" title="Material UI" width="40px" src="material-ui.svg" />
 
 </div>
 
