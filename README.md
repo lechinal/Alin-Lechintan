@@ -19,6 +19,12 @@
 <img alt="React" title="React.js" width="40px" src="React.png" />
 <img alt="Node" title="Node.js" width="40px" src="node.png" />
 <img alt="GitHub" title="GitHub" width="40px" src="github.svg" />
+<img alt="VSCode" title="VSCode" width="40px" src="vscode.svg" />
+<img alt="Figma" title="Figma" width="40px" src="figma.svg" />
+<img alt="Slack" title="Slack" width="40px" src="slack.svg" />
+<img alt="Trello" title="Trello" width="40px" src="trello.svg" />
+<img alt="SASS" title="SASS" width="40px" src="sass.svg" />
+<img alt="BEM" title="BEM" width="40px" src="bem.svg" />
 
 </div>
 
