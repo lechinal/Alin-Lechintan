@@ -22,19 +22,6 @@ You have stayed on my page for:
 
 <br/>
 
-<style>
-  div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: 10px 0;
-  }
-  div img {
-    margin-right: 10px;
-  }
-</style>
-
 <div>
 
 <img alt="HTML5" title="HTML5" width="40px" src="html5.png"  />
