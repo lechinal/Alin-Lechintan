@@ -13,11 +13,12 @@
 
 <div>
 
-<img alt="HTML5" width="40px" src="html5.png"  />
-<img alt="CSS3" width="40px" src="css3.png" />
-<img alt="JavaScript" width="40px" src="JavaScript.png" />
-<img alt="React" width="40px" src="React.png" />
-<img alt="Node" width="40px" src="node.png" />
+<img alt="HTML5" title="HTML5" width="40px" src="html5.png"  />
+<img alt="CSS3" title="CSS3" width="40px" src="css3.png" />
+<img alt="JavaScript" title="JavaScript" width="40px" src="JavaScript.png" />
+<img alt="React" title="React.js" width="40px" src="React.png" />
+<img alt="Node" title="Node.js" width="40px" src="node.png" />
+<img alt="GitHub" title="GitHub" width="40px" src="github.svg" />
 
 </div>
 
