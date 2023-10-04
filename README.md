@@ -10,7 +10,7 @@ You have stayed on my page for:
 
 ## About Me 🚀
 
-Hello there! 👋 I'm an enthusiastic entry-level full-stack developer 🧑‍💻 with a strong foundation in **HTML, CSS, JavaScript, React.js, and Node.js**. I recently completed a comprehensive programming course that equipped me with the skills to dive headfirst into the world of web development.
+Hello there! 👋 I'm an enthusiastic entry-level full-stack developer 🧑‍💻 with a solid understanding in **HTML, CSS, JavaScript, React.js, and Node.js**. I recently completed a comprehensive programming course that equipped me with the skills to dive headfirst into the world of web development.
 
 ### My Passion 💡
 
