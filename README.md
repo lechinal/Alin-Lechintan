@@ -12,12 +12,28 @@ You have stayed on my page for:
 
 ### I'm a entry level fullstack developer 🧑‍💻 (HTML + CSS, JS, React.js, Node.js)
 
+- 👀 I’m interested in **computer programming & coding**
+- 🌱 I’m currently learning **Node.js**, and constantly learning new things
+
 <br/>
 <br/>
 
 ### Skills & Tools : <img align="left" alt="skills" width="40px" src="https://cdn-icons-png.flaticon.com/512/3696/3696638.png"/>
 
 <br/>
+
+<style>
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+  }
+  div img {
+    margin-right: 10px;
+  }
+</style>
 
 <div>
 
