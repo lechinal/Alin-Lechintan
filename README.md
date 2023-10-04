@@ -12,8 +12,7 @@ You have stayed on my page for:
 
 ### I'm a entry level fullstack developer 🧑‍💻 (HTML + CSS, JS, React.js, Node.js)
 
-- 👀 I’m interested in **computer programming & coding**
-- 🌱 I'm passionate about **computer programming & coding** and **web development**, constantly exploring new technologies..
+- 👀 I'm passionate about **computer programming & coding** and **web development**, constantly exploring new technologies..
 
 <br/>
 <br/>
