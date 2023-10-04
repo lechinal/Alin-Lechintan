@@ -13,7 +13,7 @@ You have stayed on my page for:
 ### I'm a entry level fullstack developer 🧑‍💻 (HTML + CSS, JS, React.js, Node.js)
 
 - 👀 I’m interested in **computer programming & coding**
-- 🌱 I’m currently learning **Node.js**, and constantly learning new things
+- 🌱 I'm passionate about web development, and I'm always exploring new technologies.
 
 <br/>
 <br/>
