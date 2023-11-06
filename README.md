@@ -61,5 +61,5 @@ Let's connect, collaborate, and create amazing things together! 🌐✨
 
 <br/>
 
-[<img align="left" alt="Linkedin" title="Linkedin" width="40px" src="linkedin.png" />](www.linkedin.com/in/alin-lechintan)
+[<img align="left" alt="LinkedIn" title="LinkedIn" width="40px" src="linkedin.png" />](www.linkedin.com/in/alin-lechintan)
 [<img align="left" alt="Outlook" title="Outlook" width="40px" src="image.png" />](mailto:alin.lechintan@outlook.com)
