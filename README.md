@@ -49,6 +49,7 @@ Let's connect, collaborate, and create amazing things together! 🌐✨
 <img alt="BEM" title="BEM" width="40px" src="bem.svg" />
 <img alt="MUI" title="Material UI" width="40px" src="material-ui.svg" />
 <img alt="MongoDB" title="MongoDB" width="40px" src="mongodb.svg" />
+<img alt="Postman" title="Postman" width="40px" src="postman-icon.svg" />
 
 </div>
 
